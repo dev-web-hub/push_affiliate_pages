@@ -6,6 +6,5 @@ type Input struct {
 }
 
 func Run(input Input) error {
-    // TODO: implement push_affiliate_pages logic
     return nil
 }
